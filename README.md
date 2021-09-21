@@ -31,7 +31,7 @@ Excepcionales dotes comunicativas y de creación de redes.
 
 <img src="https://img.icons8.com/material-rounded/24/000000/find-email.png" align="left"><font FACE="helvetica" SIZE=3 color="RoyalBlue"><b>salazarantoniosa@gmail.com<b></font>
 
-    
+
 <img src="https://img.icons8.com/material-outlined/24/000000/linkedin--v1.png" align="left"><font FACE="helvetica" SIZE=3 color="RoyalBlue"><b>[ __in/antonio-uribe-salazar__](https://www.linkedin.com/in/antonio-uribe-salazar-ab8545213/)<b></font>
 
     
