@@ -1,6 +1,5 @@
 ![Antonio](https://lh3.googleusercontent.com/QzJYVmZH1LUnXxq7qVS5-tEHEnypxSl9-KYse69hwtd7TRVjn814WHHc2Za5rHzP-tloY7OFGV0TOLiMWoQ-M0qRmYMxX9R_bHeb3iT0VqPovk9bIuhSNbp6r8LTYw-UPOuOtW08RwE=w2400 "Antonio")
-# **<font color="Crimson">_Antonio De Jesús Uribe Salazar_</font>**
-[![Spotify](https://darksdasd.vercel.app.vercel.app/api/spotify)](https://open.spotify.com/user/antonio54w)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=antonio54w&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 
 ***
