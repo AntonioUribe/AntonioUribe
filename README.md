@@ -1,5 +1,5 @@
 ![Antonio](https://lh3.googleusercontent.com/QzJYVmZH1LUnXxq7qVS5-tEHEnypxSl9-KYse69hwtd7TRVjn814WHHc2Za5rHzP-tloY7OFGV0TOLiMWoQ-M0qRmYMxX9R_bHeb3iT0VqPovk9bIuhSNbp6r8LTYw-UPOuOtW08RwE=w2400 "Antonio")
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=antonio54w&cover_image=true&theme=default)](https://open.spotify.com/playlist/0wlTwFebgm2Y08SHhHTLd0?si=84512d7f9d904411)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=antonio54w&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/playlist/0wlTwFebgm2Y08SHhHTLd0?si=84512d7f9d904411)
 
 
 ***
